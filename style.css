@@ -1,0 +1,110 @@
+body {
+  background-color: plum;
+  justify-content: center;
+}
+.introduction {
+  display: flex;
+  flex-direction: row;
+  width: 950px;
+  height: 250 px;
+  border: 5px;
+  border-color: purple;
+  border-style: inset;
+  border-radius: 10px;
+  justify-self: center;
+}
+.gluecontent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.topdown {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 5px;
+  border-color: purple;
+  border-style: inset;
+  border-radius: 10px;
+  height: auto;
+}
+.imagesort {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.snormal{
+  width: auto;
+  height: 210px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.normal{
+  width: 455px;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.small {
+  width: 210px;
+  height: 210px;
+  margin-bottom: 5px;
+}
+h1 {
+  font-family: "cursive", "Trattatello", fantasy;
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  font-family: "cursive", "Jazz LET", fantasy;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h3 {
+  font-family: "cursive", "Jazz LET", fantasy;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+p .intro {
+  font-family: "cursive", "Jazz LET", fantasy;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-height: 250px;
+  max-width: 350px;
+  text-indent: 50px;
+  text-align: left;
+}
+p {
+  font-family: "cursive", "Jazz LET", fantasy;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 445px;
+  text-align: left;
+}
+li {
+  font-family: "cursive", "Jazz LET", fantasy;
+}
+ul {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+ol {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
