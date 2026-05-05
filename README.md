@@ -1,1 +1,57 @@
-# table-tennis-aykt
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="glueing.html">Glueing Rubber</a></li>
+    <h1>How to Glue Table Tennis Rubbers</h1>
+    <div class="introduction">
+      <img src = "https://www.butterfly-global.com/en/product/lin_yun-ju/images/ly_image2.jpg" class="normal">
+      <p class="intro">Each table tennis racket is consisted of a wooden or carbon blade and two sheet of rubber, one on each side. While some companies sell pre-made rackets, most professional brands sell their rubbers and blades separately. As such, learning how to glue the table tennis rubbers to your racket is an essential skill for all professional or intermediate table tennis players. Additionally, glueing rubbers requires precision, as an imperfection during the glueing process can cause a major difference in the performance of the racket. Once basic skills have been mastered, players can experiment with different rubbers, blades, and glue, which can all impact the feeling and power of the finished racket.</p>
+    </div>
+    <br>
+    <div class="gluecontent">
+      <div class="topdown">
+        <h2>Materials</h2>
+        <p>While many people think only glue is needed for glueing table tennis rubbers, many more materials and tools are needed because glueing rubbers is a extremely delicate process, from how the glue is applied to the way the rubber is attached to the racket.</p>
+        <img src = "file:///Users/aaron.work/Desktop/stigarubbermaterials.png" class="normal">
+        <h3>Items</h3>
+        <ul>
+          <li> Table tennis racket </li>
+          <li> Table tennis rubbers </li>
+          <li> Rubber glue </li>
+          <li> Sponge </li>
+          <li> Sharp scissors </li>
+          <li> Edge tape </li>
+        </ul>
+      </div>
+      
+      <div class="topdown">
+        <h2>Instructions</h2>
+        <ol>
+          <li> Apply glue to the table tennis racket </li>
+          <li> Apply glue to the rubber </li>
+          <li> Spread glue evenly on both surfaces </li>
+          <li> Wait until glue is dry to touch and turns transparent </li>
+          <li> Attach rubber to table tennis racket </li>
+          <li> Trim rubbers to the shape of the racket with scissors </li>
+          <li> Apply edge tape to the edge of the racket </li>
+          <li> Wait 15 - 20 minutes </li>
+        </ol>
+        <div class="imagesort">
+          <img src = "https://i.postimg.cc/DZGKrC97/asdasdasd123123.webp" class="small">
+          <img src = "https://i.postimg.cc/LXPMtyc9/asdasdasd1231233.webp" class="small">
+        </div>
+        <div class="imagesort">
+          <img src = "file:///Users/aaron.work/Desktop/xxxxasd12%20copy.png" class="snormal">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
