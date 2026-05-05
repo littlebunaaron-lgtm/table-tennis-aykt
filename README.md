@@ -2,14 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="glueing.html">Glueing Rubber</a></li>
     <h1>How to Glue Table Tennis Rubbers</h1>
     <div class="introduction">
       <img src = "https://www.butterfly-global.com/en/product/lin_yun-ju/images/ly_image2.jpg" class="normal">
@@ -31,7 +26,6 @@
           <li> Edge tape </li>
         </ul>
       </div>
-      
       <div class="topdown">
         <h2>Instructions</h2>
         <ol>
